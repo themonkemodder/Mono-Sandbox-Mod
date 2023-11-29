@@ -8,3 +8,11 @@
             Version = "1.2.1";
     }
 }
+print ("the n-word f slur")
+
+
+
+
+
+
+    
